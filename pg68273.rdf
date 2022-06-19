@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+>
+  <pgterms:ebook rdf:about="ebooks/68273">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68273/68273-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/68273"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">895945</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N58a5f778814f40229d34ce903952cc57">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6be98bc53b4c41988b6873aaecab53f1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-09T18:07:35</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68273/68273-0.txt">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc9b5522db8f04797829f989f9b130572">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68273"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-09T18:07:34</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">578069</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68273/68273-0.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212771</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N796c5941487d42a49a0d32b86240d0c5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-09T18:07:35</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbe4aae24576d443b90fb33a56e1ec3d3">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68273"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc907>US</pgterms:marc907>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <pgterms:marc904>https://archive.org/details/lovesbitterswee00soutgoog</pgterms:marc904>
+    <dcterms:license rdf:resource="license"/>
+    <pgterms:marc260>United States :A.L. Burt Co,1882,copyright 1889.</pgterms:marc260>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68273/68273-h/68273-h.htm">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">672697</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-09T18:07:34</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nac6a4f2398d54b3686ae82a2fed0d5a4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68273"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/1307">
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/E._D._E._N._Southworth"/>
+        <pgterms:alias>Southworth, E. D. E. N.</pgterms:alias>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1899</pgterms:deathdate>
+        <pgterms:alias>Southworth, Emma D. E. N.</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1819</pgterms:birthdate>
+        <pgterms:name>Southworth, Emma Dorothy Eliza Nevitte</pgterms:name>
+        <pgterms:alias>Nevitt, Dorothy Emma Eliza</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Na6050da25680450ead0abe2d09d1164f">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <pgterms:marc508>Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)</pgterms:marc508>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-09</dcterms:issued>
+    <dcterms:title>Love’s bitterest cup: A sequel to “Her Mother’s Secret”</dcterms:title>
+    <pgterms:marc905>20210212083953southworth</pgterms:marc905>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:marc906>1882</pgterms:marc906>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/E._D._E._N._Southworth">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
