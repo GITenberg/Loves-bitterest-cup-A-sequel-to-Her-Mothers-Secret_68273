@@ -1,5 +1,8 @@
 _repo: Loves-bitterest-cup-A-sequel-to-Her-Mothers-Secret_68273
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68273-h/images/cover.jpg
 creator:
   author:
     agent_name: Southworth, Emma Dorothy Eliza Nevitte
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1307
     wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68273#Loves-bitterest-cup-A-sequel-to-Her-Mothers-Secret
 gutenberg_issued: '2022-06-09'
 identifiers:
   gutenberg: '68273'
